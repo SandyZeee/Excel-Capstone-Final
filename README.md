@@ -1,6 +1,6 @@
 # Excel Data Analysis Portfolio
 
-## Sandra Adomako — Data Analyst
+## Sandra Adomako - Data Analyst
 
 I use Excel to clean, analyze, and visualize data to generate business insights and support decision-making.
 
